@@ -18,6 +18,6 @@ SimpleHubDelay comes with a config.yml configuration file that is useful for man
 - Fix delay
 
 # Credit
-SimpleHubDelay was developed by [BeeAZ-pm-pl]([https://github.com/KumaaDev](https://github.com/BeeAZ-pm-pl), and remake by [KumaDev](https://github.com/KumaaDev)
+SimpleHubDelay was developed by [BeeAZ-pm-pl](https://github.com/BeeAZ-pm-pl). and remake by [KumaDev](https://github.com/KumaaDev)
   
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
