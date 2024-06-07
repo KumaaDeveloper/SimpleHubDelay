@@ -1,9 +1,23 @@
-# General
+# SimpleHubDelay
+SimpleHubDelay is a PocketMine plugin that allows players to move to the initial spawn place with a delay
 
-A plugin that helps you teleport back to spawn with a simple delay
+# Features
+- Can return to the original spawn place
 
-[![Discord](https://img.shields.io/discord/965662639168569394.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KrjD6t9HJt)
+# Commands
+- Use /hub
+- Use /lobby
+- Use /spawn
 
-# Use
+# Configuration
+SimpleHubDelay comes with a config.yml configuration file that is useful for managing messages and delay times.
 
-/hub
+# Bug And Issues
+- Fix config
+- Fix message
+- Fix delay
+
+# Credit
+SimpleHubDelay was developed by [BeeAZ-pm-pl]([https://github.com/KumaaDev](https://github.com/BeeAZ-pm-pl), and remake by [KumaDev](https://github.com/KumaaDev)
+  
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
