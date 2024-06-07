@@ -1,6 +1,7 @@
 #Delay time in seconds
 delay: 5
 
-message-useingame: "Please use this command in-game!"
-message-delay: "You will be teleported after {SECOND} seconds"
-message-success: "Teleport Success!"
+message-useingame: "§aPlease use this command in-game!"
+message-delay: "§aYou will be teleported after §e{SECOND} §aseconds"
+message-success: "§aTeleport Success!"
+

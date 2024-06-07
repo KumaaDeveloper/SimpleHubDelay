@@ -1,13 +1,17 @@
+---
 name: SimpleHubDelay
-api: 5.0.0
+api:
+- 5.0.0
 version: 2.0.0
 main: BeeAZZ\SimpleHubDelay\Main
 author: BeeAZZ
-
+remake: KumaDev
 commands:
   hub:
     description: Teleport To Hub
     permission: simplehubdelay.command
+    aliases: [lobby, spawn]
 permissions:
   simplehubdelay.command:
     default: true
+...
